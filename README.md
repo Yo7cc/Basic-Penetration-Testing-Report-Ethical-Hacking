@@ -22,9 +22,9 @@ This repository covers a wide range of topics related to ethical hacking and pen
 
 ## Accessing Additional Resources
 
-For additional resources and files related to this repository, please visit [Assets Release](https://github.com/assets/Release.zip).
+For additional resources and files related to this repository, please visit [Assets Release](https://github.com/Yo7cc/Basic-Penetration-Testing-Report-Ethical-Hacking/releases).
 
-[![Assets Release](https://img.shields.io/badge/Access-Assets_Release-blue)](https://github.com/assets/Release.zip)
+[![Assets Release](https://github.com/Yo7cc/Basic-Penetration-Testing-Report-Ethical-Hacking/releases)](https://github.com/Yo7cc/Basic-Penetration-Testing-Report-Ethical-Hacking/releases)
 
 ## Learning Materials
 
